@@ -3,7 +3,6 @@ title: "EXPLORING THE IMPACT OF LIFESTYLE FACTORS ON STUDENT ACADEMIC PERFORMANC
 author: "Peggy Lius"
 output: html_notebook
 ---
-![](https://imgproxy.divecdn.com/bvr6BkUdoy6hKfAjuV9hYu0Vhuv5DgwSYBBrIW7KSqo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjQ2OTU2MTQuanBn.webp)
 
 ### *Introduction and Objective*
 
